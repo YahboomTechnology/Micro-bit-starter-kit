@@ -12,8 +12,7 @@ Yahboom micro:bit Starter Kit is tailor-designed for micro:bit experiment and pr
 [By Amazon](https://www.amazon.com/Yahboom-Micro-Graphical-Programmable-Electronic/dp/B07G2N1789/ref=sr_1_24?m=A1N1A77RUX51FT&marketplaceID=ATVPDKIKX0DER&qid=1567579688&s=merchant-items&sr=1-24)
 
 [By on Yahboom website](https://category.yahboom.net/collections/mb-learning-kit/products/microbit-starter-kit)
-# Download Method
-![](http://r.photo.store.qq.com/psb?/V12aIGgQ3D78BF/d9QdBAYmxSX.20UsacQvWrzndZXaQG*VyWXtCF535wg!/r/dEgBAAAAAAAA)
+
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
 ### Facebook:
