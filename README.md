@@ -9,8 +9,6 @@ Yahboom micro:bit Starter Kit is tailor-designed for micro:bit experiment and pr
 
 * It supports multiple Micro:bit programming methods such as JavaScript graphical programming, Python programming.
 # Required Best Buy Links
-[By Amazon](https://www.amazon.com/Yahboom-Micro-Graphical-Programmable-Electronic/dp/B07G2N1789/ref=sr_1_24?m=A1N1A77RUX51FT&marketplaceID=ATVPDKIKX0DER&qid=1567579688&s=merchant-items&sr=1-24)
-
 [By on Yahboom website](https://category.yahboom.net/collections/mb-learning-kit/products/microbit-starter-kit)
 
 # Please Contact Us
